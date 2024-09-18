@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: ResultSet2xml.jar mysql-connector-java-8.0.28.jar ResultSet2
+ xml.jar mysql-connector-java-8.0.28.jar
+
